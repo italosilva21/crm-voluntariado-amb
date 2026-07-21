@@ -57,6 +57,9 @@ export default function Page() {
 
   return (
     <main style={{ padding: '40px 20px', fontFamily: 'sans-serif', maxWidth: '600px', margin: '0 auto' }}>
+      <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '20px' }}>
+        <img src="/logo-adb.png" alt="Amigos do Bem" style={{ maxWidth: '200px', height: 'auto' }} />
+      </div>
       <h1 style={{ textAlign: 'center', color: '#333' }}>Cadastro de Voluntário</h1>
       <p style={{ textAlign: 'center', color: '#666', marginBottom: '30px' }}>
         Preencha o formulário abaixo para se juntar à nossa equipe.
