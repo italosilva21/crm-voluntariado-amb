@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CRM de Voluntariado - AMB",
-  description: "Cadastro de voluntários da AMB",
+  title: "Amigos do Bem - Voluntariado",
+  description: "Cadastro de voluntários da Amigos do Bem",
 };
 
 export default function RootLayout({
